@@ -3,7 +3,7 @@
 ![navi-law-workflow](https://github.com/DIVX2X3/navi-law/blob/main/navi-law%20workflow.jpg)
 
 # Demo Link
-![Demo Link](https://navi-law-evc42mtbidbimmwbtqbha4.streamlit.app/)
+[Demo Link](https://navi-law-evc42mtbidbimmwbtqbha4.streamlit.app/)
 
 ## Screenshots
 
