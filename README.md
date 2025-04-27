@@ -5,6 +5,9 @@
 # Demo Link
 [Demo Link](https://navi-law-evc42mtbidbimmwbtqbha4.streamlit.app/)
 
+# Demo Video
+[Demov Video](https://www.youtube.com/watch?si=U1G37HL2DvxA-Ruj&v=hGmu0GH38xw&feature=youtu.be)
+
 ## Screenshots
 
 ![img-1](https://github.com/devroopsaha744/navilaw-ai/blob/main/images/img-1.png)  
